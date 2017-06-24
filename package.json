@@ -1,6 +1,6 @@
 {
   "name": "ghost-blobber-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A storage adapter for the ghost blog, works with mikfreedman/blobber",
   "main": "index.js",
   "scripts": {
